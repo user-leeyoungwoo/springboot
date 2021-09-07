@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.koscom.springboot.web.dto.helloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-07T02:35:19" hostname="DESKTOP-J9PSIU5" time="0.065">
-  <properties/>
-  <testcase name="롬복의게터가생성된다()" classname="com.koscom.springboot.web.dto.helloResponseDtoTest" time="0.065"/>
-  <system-out><![CDATA[ ##### 1000
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
