@@ -1,7 +1,7 @@
 package com.koscom.springboot;
 
-import org.junit.Test;
-import com.koscom.springboot.web.dto.HelloResponseDto;
+import com.koscom.springboot.web.HelloResponseDto;
+import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
